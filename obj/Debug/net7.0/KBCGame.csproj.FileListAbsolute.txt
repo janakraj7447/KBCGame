@@ -1,0 +1,15 @@
+C:\Users\janak.raj\Desktop\KBC\KBCGame\bin\Debug\net7.0\KBCGame.exe
+C:\Users\janak.raj\Desktop\KBC\KBCGame\bin\Debug\net7.0\KBCGame.deps.json
+C:\Users\janak.raj\Desktop\KBC\KBCGame\bin\Debug\net7.0\KBCGame.runtimeconfig.json
+C:\Users\janak.raj\Desktop\KBC\KBCGame\bin\Debug\net7.0\KBCGame.dll
+C:\Users\janak.raj\Desktop\KBC\KBCGame\bin\Debug\net7.0\KBCGame.pdb
+C:\Users\janak.raj\Desktop\KBC\KBCGame\obj\Debug\net7.0\KBCGame.csproj.AssemblyReference.cache
+C:\Users\janak.raj\Desktop\KBC\KBCGame\obj\Debug\net7.0\KBCGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janak.raj\Desktop\KBC\KBCGame\obj\Debug\net7.0\KBCGame.AssemblyInfoInputs.cache
+C:\Users\janak.raj\Desktop\KBC\KBCGame\obj\Debug\net7.0\KBCGame.AssemblyInfo.cs
+C:\Users\janak.raj\Desktop\KBC\KBCGame\obj\Debug\net7.0\KBCGame.csproj.CoreCompileInputs.cache
+C:\Users\janak.raj\Desktop\KBC\KBCGame\obj\Debug\net7.0\KBCGame.dll
+C:\Users\janak.raj\Desktop\KBC\KBCGame\obj\Debug\net7.0\refint\KBCGame.dll
+C:\Users\janak.raj\Desktop\KBC\KBCGame\obj\Debug\net7.0\KBCGame.pdb
+C:\Users\janak.raj\Desktop\KBC\KBCGame\obj\Debug\net7.0\KBCGame.genruntimeconfig.cache
+C:\Users\janak.raj\Desktop\KBC\KBCGame\obj\Debug\net7.0\ref\KBCGame.dll
